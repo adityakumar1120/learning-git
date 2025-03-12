@@ -4,6 +4,7 @@ console.log('trying without  internet');
 
 function generateRandomNumber(){
     return Math.random()
+    return Math.random()
 }
 
 console.log('checking track');
