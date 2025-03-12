@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+body{
+    background: #111;
+}
+
+.box{
+    height: 200px;
+}
 
 
 
